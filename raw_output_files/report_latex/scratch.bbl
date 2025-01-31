@@ -1,0 +1,47 @@
+
+\newpage
+
+\begin{thebibliography}{1}
+
+\bibitem{ra_rsencing}
+Emanuele Intrieri
+\newblock ,Nicola Casagli, Veronica Tofani, Giovanni Gigli and Federico Raspini
+\newblock Landslide detection, monitoring and prediction with remote-sensing techniques
+\newblock
+  \url{https://www.researchgate.net/publication/367002075_Landslide_detection_monitoring_and_prediction_with_remote-sensing_techniques}.
+
+\bibitem{ra_unet}
+Nikhil Tomar. \newblock UNET Implementation in PyTorch — Idiot Developer.
+\newblock
+  \url{https://medium.com/analytics-vidhya/unet-implementation-in-pytorch-idiot-developer-da40d955f201}.
+  
+\bibitem{homl}
+A.~G{\'e}ron.
+\newblock {\em Hands-On Machine Learning with Scikit-Learn and TensorFlow:
+  Concepts, Tools, and Techniques to Build Intelligent Systems}.
+\newblock O'Reilly Media, 2017.
+
+\bibitem{gsch}
+Ghorbanzadeh, O., Shahabi, H., Crivellari, A., Homayouni, S., Blaschke, T., \& Ghamisi, P. (2022).
+\newblock Landslide detection using deep learning and object-based image analysis.
+\newblock \emph{Landslides}, 19(5), 929-939.
+
+\bibitem{jys}
+Ji, S., Yu, D., Shen, C., Li, W., \& Xu, Q. (2020).
+\newblock Landslide detection from an open satellite imagery and digital elevation model dataset using attention boosted convolutional neural networks.
+\newblock \emph{Landslides}, 17(6), 1337-1352.
+
+
+\bibitem{hyper}
+Warut Pannakkong, Kwanluck Thiwa-Anont, Kasidit Singthong, Parthana Parthanadee, \& Jirachai Buddhakulsomsiri.
+\newblock Hyperparameter Tuning of Machine Learning Algorithms Using Response Surface Methodology: A Case Study of ANN, SVM, and DBN.
+\newblock \emph{Mathematical Problems in Engineering}, 2022, Article ID 8513719, 13 pages.
+\newblock \url{https://www.hindawi.com/journals/mpe/2022/8513719/}.
+
+\bibitem{f1}
+Steven A. Hicks, Inga Strümke, Vajira Thambawita, Malek Hammou, Michael A. Riegler, Pål Halvorsen, \& Sravanthi Parasa.
+\newblock On evaluation metrics for medical applications of artificial intelligence.
+\newblock \emph{Journal of the American Medical Informatics Association}, 2021, Volume 28, Issue 12, Pages 2692–2701.
+\newblock \url{https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8993826/}.
+
+\end{thebibliography}

@@ -1,0 +1,32 @@
+\contentsline {section}{\numberline {1}Introduction}{2}{section.0.1}%
+\contentsline {subsection}{\numberline {1.1}Problem Statement }{2}{subsection.0.1.1}%
+\contentsline {subsection}{\numberline {1.2}Objective }{2}{subsection.0.1.2}%
+\contentsline {section}{\numberline {2}Tools and Techniques Used}{5}{section.0.2}%
+\contentsline {subsection}{\numberline {2.1}Libraries Used}{5}{subsection.0.2.1}%
+\contentsline {subsection}{\numberline {2.2}Dataset and Methodological Background }{6}{subsection.0.2.2}%
+\contentsline {subsubsection}{Landslide4Sense Dataset}{6}{section*.15}%
+\contentsline {subsubsection}{Task Definition}{6}{section*.16}%
+\contentsline {subsubsection}{Evaluation Metrics}{6}{section*.17}%
+\contentsline {subsubsection}{Utilizing U-Net for Landslide Detection}{6}{section*.18}%
+\contentsline {subsection}{\numberline {2.3}Architecture Overview}{7}{subsection.0.2.3}%
+\contentsline {subsubsection}{Adaptation for Landslide Detection :}{7}{section*.19}%
+\contentsline {section}{\numberline {3}Model Tarining }{10}{section.0.3}%
+\contentsline {subsection}{\numberline {3.1}Workflow Diagram}{10}{subsection.0.3.1}%
+\contentsline {subsection}{\numberline {3.2}Data Acquisition and Data Processing}{10}{subsection.0.3.2}%
+\contentsline {subsection}{\numberline {3.3}Model Definition}{11}{subsection.0.3.3}%
+\contentsline {subsubsection}{Input Layer: }{11}{section*.21}%
+\contentsline {subsubsection}{Contraction Path:}{11}{section*.22}%
+\contentsline {subsubsection}{Expansive Path:}{11}{section*.23}%
+\contentsline {subsubsection}{Output Layer:}{11}{section*.24}%
+\contentsline {subsection}{\numberline {3.4}Model Training and Evaluation}{11}{subsection.0.3.4}%
+\contentsline {subsubsection}{Model Trained with 4 Epoch (Taking a small Amount of Data) }{12}{section*.25}%
+\contentsline {subsubsection}{Model with 10 Epoch and Batch size of 32 }{13}{section*.26}%
+\contentsline {subsubsection}{Model with 100 Epoch and Batch size of 16 }{14}{section*.27}%
+\contentsline {subsection}{\numberline {3.5}Hyperparameter Tuning}{14}{subsection.0.3.5}%
+\contentsline {subsection}{\numberline {3.6}Model Testing and Selection}{15}{subsection.0.3.6}%
+\contentsline {subsubsection}{Threshold Selection for Classification}{16}{section*.28}%
+\contentsline {section}{\numberline {4}Performance Analysis}{19}{section.0.4}%
+\contentsline {subsection}{\numberline {4.1}Test Results of Functionalities}{19}{subsection.0.4.1}%
+\contentsline {section}{\numberline {5}Conclusion and Future Scope}{21}{section.0.5}%
+\contentsline {subsection}{\numberline {5.1}Conclusion}{21}{subsection.0.5.1}%
+\contentsline {subsection}{\numberline {5.2}Future Scope}{21}{subsection.0.5.2}%
