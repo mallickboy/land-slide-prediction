@@ -9,7 +9,7 @@ The dataset consists of **3,799 labeled images** with associated masks, which ar
 - **Image Shape**: (128, 128, 14) — The images consist of 14 channels, capturing multiple environmental variables.
 - **Mask Shape**: (128, 128, 1) — Each mask is a binary image with 1 channel, representing areas with potential landslide risks.
 
-### Channels in the Image:
+### Used channels in the Image:
 1. **Channel 1**: Blue
 2. **Channel 2**: Green
 3. **Channel 3**: Red
